@@ -1,6 +1,6 @@
 # VASware – Empowering smarter decisions, one geospatial insight at a time.
 
-Welcome to **VASware**, a dedicated team of GIS and full-stack developers delivering cutting-edge geospatial solutions. We combine **AI, remote sensing, and modern web technologies** to empower renewable energy projects, urban planning, and environmental monitoring.
+Welcome to **VASware**, a dedicated team of GIS and full-stack developers delivering cutting-edge geospatial solutions. I combine **AI, remote sensing, and modern web technologies** to empower renewable energy projects, urban planning, and environmental monitoring.
 
 ---
 
